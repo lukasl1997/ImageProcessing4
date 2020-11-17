@@ -1,0 +1,10 @@
+C:\Users\letri\source\repos\ImageProcessing4\ImageProcessing4\obj\Debug\ImageProcessing4.csprojAssemblyReference.cache
+C:\Users\letri\source\repos\ImageProcessing4\ImageProcessing4\obj\Debug\ImageProcessing4.Properties.Resources.resources
+C:\Users\letri\source\repos\ImageProcessing4\ImageProcessing4\obj\Debug\ImageProcessing4.csproj.GenerateResource.cache
+C:\Users\letri\source\repos\ImageProcessing4\ImageProcessing4\obj\Debug\ImageProcessing4.csproj.CoreCompileInputs.cache
+C:\Users\letri\source\repos\ImageProcessing4\ImageProcessing4\bin\Debug\ImageProcessing4.exe.config
+C:\Users\letri\source\repos\ImageProcessing4\ImageProcessing4\bin\Debug\ImageProcessing4.exe
+C:\Users\letri\source\repos\ImageProcessing4\ImageProcessing4\bin\Debug\ImageProcessing4.pdb
+C:\Users\letri\source\repos\ImageProcessing4\ImageProcessing4\obj\Debug\ImageProcessing4.Form1.resources
+C:\Users\letri\source\repos\ImageProcessing4\ImageProcessing4\obj\Debug\ImageProcessing4.exe
+C:\Users\letri\source\repos\ImageProcessing4\ImageProcessing4\obj\Debug\ImageProcessing4.pdb
